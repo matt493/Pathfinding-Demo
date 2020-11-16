@@ -4,7 +4,7 @@ if("${CMAKE_MAJOR_VERSION}.${CMAKE_MINOR_VERSION}" LESS 2.5)
    message(FATAL_ERROR "CMake >= 2.6.0 required")
 endif()
 cmake_policy(PUSH)
-cmake_policy(VERSION 2.6)
+cmake_policy(VERSION 2.6...3.17)
 #----------------------------------------------------------------
 # Generated CMake target import file.
 #----------------------------------------------------------------
@@ -59,15 +59,15 @@ set_target_properties(FreeGLUT::freeglut_static PROPERTIES
 # Import target "FreeGLUT::freeglut" for configuration "Debug"
 set_property(TARGET FreeGLUT::freeglut APPEND PROPERTY IMPORTED_CONFIGURATIONS DEBUG)
 set_target_properties(FreeGLUT::freeglut PROPERTIES
-  IMPORTED_IMPLIB_DEBUG "E:/dev/CG_project/depn/freeglut-3.2.1 - ignore/out/build/x64-Debug (default)/lib/freeglutd.lib"
-  IMPORTED_LOCATION_DEBUG "E:/dev/CG_project/depn/freeglut-3.2.1 - ignore/out/build/x64-Debug (default)/bin/freeglutd.dll"
+  IMPORTED_IMPLIB_DEBUG "M:/STUDY/S3/CG/CG_project/depn/freeglut-3.2.1 - ignore/out/build/x64-Debug (default)/lib/freeglutd.lib"
+  IMPORTED_LOCATION_DEBUG "M:/STUDY/S3/CG/CG_project/depn/freeglut-3.2.1 - ignore/out/build/x64-Debug (default)/bin/freeglutd.dll"
   )
 
 # Import target "FreeGLUT::freeglut_static" for configuration "Debug"
 set_property(TARGET FreeGLUT::freeglut_static APPEND PROPERTY IMPORTED_CONFIGURATIONS DEBUG)
 set_target_properties(FreeGLUT::freeglut_static PROPERTIES
   IMPORTED_LINK_INTERFACE_LANGUAGES_DEBUG "C;RC"
-  IMPORTED_LOCATION_DEBUG "E:/dev/CG_project/depn/freeglut-3.2.1 - ignore/out/build/x64-Debug (default)/lib/freeglut_staticd.lib"
+  IMPORTED_LOCATION_DEBUG "M:/STUDY/S3/CG/CG_project/depn/freeglut-3.2.1 - ignore/out/build/x64-Debug (default)/lib/freeglut_staticd.lib"
   )
 
 # This file does not depend on other imported targets which have

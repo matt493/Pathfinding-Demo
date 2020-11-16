@@ -1,5 +1,5 @@
-prefix=E:/dev/CG_project/depn/freeglut-3.2.1 - ignore/out/install/x64-Debug (default)
-libdir=E:/dev/CG_project/depn/freeglut-3.2.1 - ignore/out/install/x64-Debug (default)/lib
+prefix=M:/STUDY/S3/CG/CG_project/depn/freeglut-3.2.1 - ignore/out/install/x64-Debug (default)
+libdir=M:/STUDY/S3/CG/CG_project/depn/freeglut-3.2.1 - ignore/out/install/x64-Debug (default)/lib
 includedir=${prefix}/include
 
 Name: glut
