@@ -1,0 +1,285 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "freeglut",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CallbackMaker::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CallbackMaker-Debug-4e4ce4215d6a6e9e5885.json",
+					"name" : "CallbackMaker",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CallbackMaker_static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CallbackMaker_static-Debug-89febc29568011821cfc.json",
+					"name" : "CallbackMaker_static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Fractals::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Fractals-Debug-6c721e698fbab8631f4d.json",
+					"name" : "Fractals",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Fractals_random::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Fractals_random-Debug-817adf2a8479b4e649e4.json",
+					"name" : "Fractals_random",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Fractals_random_static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Fractals_random_static-Debug-3e67abc5b46f225de58a.json",
+					"name" : "Fractals_random_static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Fractals_static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Fractals_static-Debug-153e7a003122a0932345.json",
+					"name" : "Fractals_static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lorenz::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lorenz-Debug-5c851e1052af4a5d79e9.json",
+					"name" : "Lorenz",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lorenz_static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lorenz_static-Debug-634587b7b6986162e141.json",
+					"name" : "Lorenz_static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "One::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-One-Debug-d1ac0aaf462fc65f4278.json",
+					"name" : "One",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "One_static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-One_static-Debug-1079ebfb2dd46a97c745.json",
+					"name" : "One_static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Resizer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Resizer-Debug-ebe0efb911162589d352.json",
+					"name" : "Resizer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Resizer_static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Resizer_static-Debug-ae13740c76dfe8c95a7a.json",
+					"name" : "Resizer_static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "freeglut::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-freeglut-Debug-878d3c4692953b9841a1.json",
+					"name" : "freeglut",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "freeglut_static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-freeglut_static-Debug-40b17c83590d7fa7673b.json",
+					"name" : "freeglut_static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "multi-touch::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-multi-touch-Debug-6acde66edd9e2a7d4e44.json",
+					"name" : "multi-touch",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "multi-touch_static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-multi-touch_static-Debug-e68c03db2f64db9800cb.json",
+					"name" : "multi-touch_static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "shapes::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-shapes-Debug-1cdce46a988c82df46c2.json",
+					"name" : "shapes",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "shapes_static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-shapes_static-Debug-e99dd7bd91f93cc88429.json",
+					"name" : "shapes_static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "smooth_opengl3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-smooth_opengl3-Debug-5006c855b0ec1b7d8c82.json",
+					"name" : "smooth_opengl3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "smooth_opengl3_static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-smooth_opengl3_static-Debug-7fc532adeb8e5753fe92.json",
+					"name" : "smooth_opengl3_static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "subwin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-subwin-Debug-b85d7d78808af1ebda24.json",
+					"name" : "subwin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "subwin_static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-subwin_static-Debug-71e8e7e151916c3bb63e.json",
+					"name" : "subwin_static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "timer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-timer-Debug-72df7744b32ada8c7e4a.json",
+					"name" : "timer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "timer_callback::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-timer_callback-Debug-03bd141243ad6da6ee38.json",
+					"name" : "timer_callback",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "timer_callback_static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-timer_callback_static-Debug-5684ded1fcd45298864e.json",
+					"name" : "timer_callback_static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "timer_static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-timer_static-Debug-eaff49712a532562f7a7.json",
+					"name" : "timer_static",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/dev/CG_project/depn/freeglut-3.2.1 - ignore/out/build/x64-Debug (default)",
+		"source" : "E:/dev/CG_project/depn/freeglut-3.2.1 - ignore"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}
